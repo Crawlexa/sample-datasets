@@ -1,0 +1,6 @@
+product_id,source,title,brand,category,price,currency,list_price,in_stock,rating,review_count,seller,url,captured_at
+P-0001,example-store-a,Wireless Earbuds Pro,SoundCo,Audio,49.99,USD,59.99,true,4.6,1284,SoundCo Official,https://example.com/p/0001,2026-11-01T06:00:00Z
+P-0002,example-store-a,Smart Watch S2,TimeTech,Wearables,129.00,USD,149.00,true,4.4,512,TimeTech,https://example.com/p/0002,2026-11-01T06:00:00Z
+P-0003,example-store-b,USB-C Hub 7-in-1,PortMax,Accessories,34.50,USD,34.50,false,4.7,2210,GadgetHub,https://example.com/p/0003,2026-11-01T06:00:00Z
+P-0004,example-store-b,LED Desk Lamp,BrightDesk,Home Office,22.99,USD,27.99,true,4.5,846,BrightDesk,https://example.com/p/0004,2026-11-01T06:00:00Z
+P-0005,example-store-c,Aluminium Laptop Stand,ErgoLift,Accessories,29.95,USD,39.95,true,4.8,3102,ErgoLift Store,https://example.com/p/0005,2026-11-01T06:00:00Z
